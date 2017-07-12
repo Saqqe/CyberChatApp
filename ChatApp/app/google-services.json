@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36512526134",
+    "firebase_url": "https://cyberchatapp.firebaseio.com",
+    "project_id": "cyberchatapp",
+    "storage_bucket": "cyberchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36512526134:android:8150aae37161f007",
+        "android_client_info": {
+          "package_name": "com.cybercom_android_kn.cyberchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36512526134-uppahfeos4me1rsggvbaj5ao42ketiek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cybercom_android_kn.cyberchatapp",
+            "certificate_hash": "39747ea90b2205b3c87bf4a0f8b805ebe21a15e8"
+          }
+        },
+        {
+          "client_id": "36512526134-r04p7rqf0sear26taoustm4rsq2hj0ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2ghGrZHOBoSQqgfa-rPJ5AjqN0sr6Fk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36512526134-r04p7rqf0sear26taoustm4rsq2hj0ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
