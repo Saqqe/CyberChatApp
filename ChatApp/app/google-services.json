@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "36512526134-dciiqo7qg8if18g3ivtvsnfpfreanngg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cybercom_android_kn.cyberchatapp",
+            "certificate_hash": "dafbf002193046073913528cb4c58b90fcf32d5c"
+          }
+        },
+        {
           "client_id": "36512526134-uppahfeos4me1rsggvbaj5ao42ketiek.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
